@@ -106,4 +106,5 @@ A number of schools have their own reading lists for graduate students in databa
 * [Stanford PhD qualifying exam](http://infolab.stanford.edu/db_pages/infoqual.html)
 * MIT: [Database Systems 6.830 year 2010](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-830-database-systems-fall-2010/readings/)
 * [Wisconsin Database Qualifying Exam Reading List (2014)](https://cs.wiscweb.wisc.edu/wp-content/uploads/sites/871/2018/12/Database-systems-qual_Summer-2014.pdf)
-* [CMU 15-721 Database Systems Reading List (Spring 2016)](http://15721.courses.cs.cmu.edu/spring2016/schedule.html)
+* [CMU 15-721 Database Systems Reading List (Spring 2020)](https://15721.courses.cs.cmu.edu/spring2020/schedule.html)
+* TiDB: [Awesome Database Learning](https://github.com/pingcap/awesome-database-learning)
